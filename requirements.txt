@@ -1,0 +1,42 @@
+# Loan Agreement OCR Processing Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core OCR Processing
+ocrmypdf>=15.4.0              # Main OCR engine with latest features
+pikepdf>=8.0.0                # PDF manipulation library (ocrmypdf dependency)
+
+# Image Processing & Compression
+Pillow>=10.0.0                # Image processing
+
+# PDF Libraries (multiple for robustness)
+pdfplumber>=0.9.0             # PDF text extraction
+PyPDF2>=3.0.0                 # PDF manipulation
+PyMuPDF>=1.23.0               # Fast PDF processing
+
+# Progress & UI
+tqdm>=4.65.0                  # Progress bars
+colorama>=0.4.6               # Colored terminal output
+
+# Core Python utilities
+pathlib2>=2.3.0               # Enhanced path handling
+typing-extensions>=4.0.0      # Type hints support
+
+# Optional: Enhanced OCR capabilities
+pytesseract>=0.3.10           # Tesseract OCR wrapper
+opencv-python>=4.8.0          # Computer vision (for image preprocessing)
+
+# Optional: AI-powered extraction (if needed)
+google-genai>=0.3.0           # Google Gemini AI SDK
+
+# Development & Testing
+pytest>=7.0.0                 # Testing framework
+black>=23.0.0                 # Code formatting
+flake8>=6.0.0                 # Code linting
+
+# System dependencies (install separately):
+# - Tesseract OCR: https://github.com/UB-Mannheim/tesseract/wiki
+# - Ghostscript: https://www.ghostscript.com/download/gsdnld.html
+# - JBIG2 decoder: Usually included with Tesseract or system packages
+#   For Windows: Often comes with Tesseract installation
+#   For Linux: sudo apt-get install libjbig2-dev
+#   For macOS: brew install jbig2dec 

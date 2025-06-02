@@ -1,0 +1,1279 @@
+{
+  "summary": {
+    "total_documents": 106,
+    "total_properties": 45,
+    "documents_by_type": {
+      "promissory_note": 52,
+      "loan_agreement": 39,
+      "amendment": 14,
+      "supporting": 1
+    },
+    "properties_with_amendments": 17
+  },
+  "property_bundles": {
+    "HarborOne": {
+      "property_id": "HarborOne",
+      "property_name": "HarborOne",
+      "base_documents": [
+        {
+          "filename": "02a. HarborOne_RJ Kelly - Southern New Hampshire - Promissory Note (HarborOne) (Executed).pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\02a. HarborOne_RJ Kelly - Southern New Hampshire - Promissory Note (HarborOne) (Executed).pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "HarborOne",
+          "amendment_number": 0,
+          "file_size": 76560
+        },
+        {
+          "filename": "02b. HarborOne_RJ Kelly - Southern New Hampshire - Promissory Note (Salem Five)  (Executed).pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\02b. HarborOne_RJ Kelly - Southern New Hampshire - Promissory Note (Salem Five)  (Executed).pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "HarborOne",
+          "amendment_number": 0,
+          "file_size": 67361
+        },
+        {
+          "filename": "02c. HarborOne_RJ Kelly - Southern New Hampshire - Promissory Note (Westfield) (Executed).pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\02c. HarborOne_RJ Kelly - Southern New Hampshire - Promissory Note (Westfield) (Executed).pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "HarborOne",
+          "amendment_number": 0,
+          "file_size": 69303
+        },
+        {
+          "filename": "02d. HarborOne_RJ Kelly - Southern New Hampshire - Promissory Note (BankNewport).pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\02d. HarborOne_RJ Kelly - Southern New Hampshire - Promissory Note (BankNewport).pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "HarborOne",
+          "amendment_number": 0,
+          "file_size": 182276
+        },
+        {
+          "filename": "02e. HarborOne_RJ Kelly - Southern New Hampshire - Promissory Note (Service Credit Union).pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\02e. HarborOne_RJ Kelly - Southern New Hampshire - Promissory Note (Service Credit Union).pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "HarborOne",
+          "amendment_number": 0,
+          "file_size": 74836
+        },
+        {
+          "filename": "03. HarborOne_RJ Kelly - Southern NH Portfolio - Loan Agreement (executed).pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\03. HarborOne_RJ Kelly - Southern NH Portfolio - Loan Agreement (executed).pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "HarborOne",
+          "amendment_number": 0,
+          "file_size": 535242
+        },
+        {
+          "filename": "HarborOne_RJ Kelly - Nashua and Hudson - Loan Agreement.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\HarborOne_RJ Kelly - Nashua and Hudson - Loan Agreement.PDF",
+          "doc_type": "loan_agreement",
+          "property_identifier": "HarborOne",
+          "amendment_number": 0,
+          "file_size": 298532
+        }
+      ],
+      "amendments": [
+        {
+          "filename": "02a. HarborOne_RJ Kelly - Southern New Hampshire - Second Amended and Restated Promissory Note (HarborOne)(86545390.1).pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\02a. HarborOne_RJ Kelly - Southern New Hampshire - Second Amended and Restated Promissory Note (HarborOne)(86545390.1).pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "HarborOne",
+          "amendment_number": 2,
+          "file_size": 96538
+        },
+        {
+          "filename": "02a. HarborOne_RJ Kelly - Southern New Hampshire - Amended and Restated Promissory Note (HarborOne)(86397124.1).pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\02a. HarborOne_RJ Kelly - Southern New Hampshire - Amended and Restated Promissory Note (HarborOne)(86397124.1).pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "HarborOne",
+          "amendment_number": 99,
+          "file_size": 92513
+        }
+      ],
+      "supporting_documents": [],
+      "total_documents": 9
+    },
+    "100q": {
+      "property_id": "100q",
+      "property_name": "100q",
+      "base_documents": [
+        {
+          "filename": "100q_14. Term Note.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\100q_14. Term Note.PDF",
+          "doc_type": "promissory_note",
+          "property_identifier": "100q",
+          "amendment_number": 0,
+          "file_size": 2271264
+        },
+        {
+          "filename": "100q_15. Loan Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\100q_15. Loan Agreement.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "100q",
+          "amendment_number": 0,
+          "file_size": 2588922
+        }
+      ],
+      "amendments": [
+        {
+          "filename": "100q_Ex Modification Agreement.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\100q_Ex Modification Agreement.PDF",
+          "doc_type": "amendment",
+          "property_identifier": "100q",
+          "amendment_number": 0,
+          "file_size": 247262
+        },
+        {
+          "filename": "100q_Tab 01 Modification Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\100q_Tab 01 Modification Agreement.pdf",
+          "doc_type": "amendment",
+          "property_identifier": "100q",
+          "amendment_number": 0,
+          "file_size": 1094848
+        },
+        {
+          "filename": "100q_Ex Amended and Restated Note.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\100q_Ex Amended and Restated Note.PDF",
+          "doc_type": "promissory_note",
+          "property_identifier": "100q",
+          "amendment_number": 99,
+          "file_size": 87505
+        }
+      ],
+      "supporting_documents": [],
+      "total_documents": 5
+    },
+    "02 Amendment of Security Inst": {
+      "property_id": "02 Amendment of Security Inst",
+      "property_name": "02 Amendment of Security Inst",
+      "base_documents": [],
+      "amendments": [],
+      "supporting_documents": [
+        {
+          "filename": "100q_Tab 02 Amendment of Security Instruments (recorded).pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\100q_Tab 02 Amendment of Security Instruments (recorded).pdf",
+          "doc_type": "supporting",
+          "property_identifier": "02 Amendment of Security Inst",
+          "amendment_number": 0,
+          "file_size": 678878
+        }
+      ],
+      "total_documents": 1
+    },
+    "1020MR": {
+      "property_id": "1020MR",
+      "property_name": "1020MR",
+      "base_documents": [
+        {
+          "filename": "1020MR_17. Mortgage Loan Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\1020MR_17. Mortgage Loan Agreement.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "1020MR",
+          "amendment_number": 0,
+          "file_size": 5389427
+        },
+        {
+          "filename": "1020MR_18. Promissory Note.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\1020MR_18. Promissory Note.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "1020MR",
+          "amendment_number": 0,
+          "file_size": 1315443
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 2
+    },
+    "12 Executive Loan Agreement": {
+      "property_id": "12 Executive Loan Agreement",
+      "property_name": "12 Executive Loan Agreement",
+      "base_documents": [
+        {
+          "filename": "12 Executive Loan Agreement.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\12 Executive Loan Agreement.PDF",
+          "doc_type": "loan_agreement",
+          "property_identifier": "12 Executive Loan Agreement",
+          "amendment_number": 0,
+          "file_size": 294365
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 1
+    },
+    "12 Executive Term Note": {
+      "property_id": "12 Executive Term Note",
+      "property_name": "12 Executive Term Note",
+      "base_documents": [
+        {
+          "filename": "12 Executive Term Note.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\12 Executive Term Note.PDF",
+          "doc_type": "promissory_note",
+          "property_identifier": "12 Executive Term Note",
+          "amendment_number": 0,
+          "file_size": 77730
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 1
+    },
+    "12 Innovation -": {
+      "property_id": "12 Innovation -",
+      "property_name": "12 Innovation -",
+      "base_documents": [
+        {
+          "filename": "12 Innovation - Loan Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\12 Innovation - Loan Agreement.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "12 Innovation -",
+          "amendment_number": 0,
+          "file_size": 634416
+        },
+        {
+          "filename": "12 Innovation - Term Note (CSB).pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\12 Innovation - Term Note (CSB).pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "12 Innovation -",
+          "amendment_number": 0,
+          "file_size": 93289
+        },
+        {
+          "filename": "12 Innovation - Term Note (SVB).pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\12 Innovation - Term Note (SVB).pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "12 Innovation -",
+          "amendment_number": 0,
+          "file_size": 91103
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 3
+    },
+    "121 Technology Drive": {
+      "property_id": "121 Technology Drive",
+      "property_name": "121 Technology Drive",
+      "base_documents": [
+        {
+          "filename": "121 Technology Drive - Loan Agreement.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\121 Technology Drive - Loan Agreement.PDF",
+          "doc_type": "loan_agreement",
+          "property_identifier": "121 Technology Drive",
+          "amendment_number": 0,
+          "file_size": 561496
+        },
+        {
+          "filename": "121 Technology Drive - Promissory Note.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\121 Technology Drive - Promissory Note.PDF",
+          "doc_type": "promissory_note",
+          "property_identifier": "121 Technology Drive",
+          "amendment_number": 0,
+          "file_size": 74681
+        }
+      ],
+      "amendments": [
+        {
+          "filename": "121 Technology Drive - 1st Amended and Restated Loan Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\121 Technology Drive - 1st Amended and Restated Loan Agreement.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "121 Technology Drive",
+          "amendment_number": 1,
+          "file_size": 562569
+        },
+        {
+          "filename": "121 Technology Drive - 1st Amended and Restated Promissory Note A.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\121 Technology Drive - 1st Amended and Restated Promissory Note A.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "121 Technology Drive",
+          "amendment_number": 1,
+          "file_size": 230814
+        },
+        {
+          "filename": "121 Technology Drive - 1st Amended and Restated Promissory Note B.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\121 Technology Drive - 1st Amended and Restated Promissory Note B.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "121 Technology Drive",
+          "amendment_number": 1,
+          "file_size": 224392
+        }
+      ],
+      "supporting_documents": [],
+      "total_documents": 5
+    },
+    "15 Guest": {
+      "property_id": "15 Guest",
+      "property_name": "15 Guest",
+      "base_documents": [],
+      "amendments": [
+        {
+          "filename": "15 Guest 1st Amendment to Loan Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\15 Guest 1st Amendment to Loan Agreement.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "15 Guest",
+          "amendment_number": 1,
+          "file_size": 830008
+        },
+        {
+          "filename": "15 Guest Promissory Note (2nd) for $2,075,000.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\15 Guest Promissory Note (2nd) for $2,075,000.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "15 Guest",
+          "amendment_number": 2,
+          "file_size": 701528
+        }
+      ],
+      "supporting_documents": [],
+      "total_documents": 2
+    },
+    "15 Guest Street": {
+      "property_id": "15 Guest Street",
+      "property_name": "15 Guest Street",
+      "base_documents": [
+        {
+          "filename": "15 Guest Street Loan Agreement.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\15 Guest Street Loan Agreement.PDF",
+          "doc_type": "loan_agreement",
+          "property_identifier": "15 Guest Street",
+          "amendment_number": 0,
+          "file_size": 328411
+        },
+        {
+          "filename": "15 Guest Street Promissory Note.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\15 Guest Street Promissory Note.PDF",
+          "doc_type": "promissory_note",
+          "property_identifier": "15 Guest Street",
+          "amendment_number": 0,
+          "file_size": 176077
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 2
+    },
+    "153 Rangeway": {
+      "property_id": "153 Rangeway",
+      "property_name": "153 Rangeway",
+      "base_documents": [
+        {
+          "filename": "153 Rangeway \u2013 LOAN AGREEMENT[14220323v1].PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\153 Rangeway \u2013 LOAN AGREEMENT[14220323v1].PDF",
+          "doc_type": "loan_agreement",
+          "property_identifier": "153 Rangeway",
+          "amendment_number": 0,
+          "file_size": 2184760
+        },
+        {
+          "filename": "153 Rangeway \u2013 Term Note[14220332v1].PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\153 Rangeway \u2013 Term Note[14220332v1].PDF",
+          "doc_type": "promissory_note",
+          "property_identifier": "153 Rangeway",
+          "amendment_number": 0,
+          "file_size": 391363
+        }
+      ],
+      "amendments": [
+        {
+          "filename": "TAB 01 Modification Agreement_- 153 Rangeway.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\TAB 01 Modification Agreement_- 153 Rangeway.pdf",
+          "doc_type": "amendment",
+          "property_identifier": "153 Rangeway",
+          "amendment_number": 0,
+          "file_size": 375999
+        }
+      ],
+      "supporting_documents": [],
+      "total_documents": 3
+    },
+    "16 Delta Drive": {
+      "property_id": "16 Delta Drive",
+      "property_name": "16 Delta Drive",
+      "base_documents": [
+        {
+          "filename": "16 Delta Drive - Loan Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\16 Delta Drive - Loan Agreement.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "16 Delta Drive",
+          "amendment_number": 0,
+          "file_size": 6995350
+        },
+        {
+          "filename": "16 Delta Drive - Note.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\16 Delta Drive - Note.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "16 Delta Drive",
+          "amendment_number": 0,
+          "file_size": 995737
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 2
+    },
+    "196 E Main St": {
+      "property_id": "196 E Main St",
+      "property_name": "196 E Main St",
+      "base_documents": [
+        {
+          "filename": "196 E Main St Quarry Square - Loan Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\196 E Main St Quarry Square - Loan Agreement.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "196 E Main St",
+          "amendment_number": 0,
+          "file_size": 6907774
+        },
+        {
+          "filename": "196 E Main St Quarry Square - Note.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\196 E Main St Quarry Square - Note.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "196 E Main St",
+          "amendment_number": 0,
+          "file_size": 1152975
+        }
+      ],
+      "amendments": [
+        {
+          "filename": "196 E Main St Quarry Square - 1st Amended and Restated Note.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\196 E Main St Quarry Square - 1st Amended and Restated Note.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "196 E Main St",
+          "amendment_number": 1,
+          "file_size": 2221259
+        },
+        {
+          "filename": "196 E Main St Quarry Square - 1st Modification Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\196 E Main St Quarry Square - 1st Modification Agreement.pdf",
+          "doc_type": "amendment",
+          "property_identifier": "196 E Main St",
+          "amendment_number": 1,
+          "file_size": 2941254
+        },
+        {
+          "filename": "196 E Main St Quarry Square - 2nd Modification Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\196 E Main St Quarry Square - 2nd Modification Agreement.pdf",
+          "doc_type": "amendment",
+          "property_identifier": "196 E Main St",
+          "amendment_number": 2,
+          "file_size": 3914208
+        },
+        {
+          "filename": "196 E Main St Quarry Square - 3rd Modification Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\196 E Main St Quarry Square - 3rd Modification Agreement.pdf",
+          "doc_type": "amendment",
+          "property_identifier": "196 E Main St",
+          "amendment_number": 3,
+          "file_size": 1958708
+        },
+        {
+          "filename": "196 E Main St Quarry Square - 4th Modification Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\196 E Main St Quarry Square - 4th Modification Agreement.pdf",
+          "doc_type": "amendment",
+          "property_identifier": "196 E Main St",
+          "amendment_number": 4,
+          "file_size": 5914125
+        }
+      ],
+      "supporting_documents": [],
+      "total_documents": 7
+    },
+    "201 Flanders 1st Amended and Restated Term Note": {
+      "property_id": "201 Flanders 1st Amended and Restated Term Note",
+      "property_name": "201 Flanders 1st Amended and Restated Term Note",
+      "base_documents": [],
+      "amendments": [
+        {
+          "filename": "201 Flanders 1st Amended and Restated Term Note.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\201 Flanders 1st Amended and Restated Term Note.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "201 Flanders 1st Amended and Restated Term Note",
+          "amendment_number": 1,
+          "file_size": 110503
+        }
+      ],
+      "supporting_documents": [],
+      "total_documents": 1
+    },
+    "201 Flanders 1st Modification Agreement": {
+      "property_id": "201 Flanders 1st Modification Agreement",
+      "property_name": "201 Flanders 1st Modification Agreement",
+      "base_documents": [],
+      "amendments": [
+        {
+          "filename": "201 Flanders 1st Modification Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\201 Flanders 1st Modification Agreement.pdf",
+          "doc_type": "amendment",
+          "property_identifier": "201 Flanders 1st Modification Agreement",
+          "amendment_number": 1,
+          "file_size": 318151
+        }
+      ],
+      "supporting_documents": [],
+      "total_documents": 1
+    },
+    "201 Flanders Loan Agreement": {
+      "property_id": "201 Flanders Loan Agreement",
+      "property_name": "201 Flanders Loan Agreement",
+      "base_documents": [
+        {
+          "filename": "201 Flanders Loan Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\201 Flanders Loan Agreement.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "201 Flanders Loan Agreement",
+          "amendment_number": 0,
+          "file_size": 3017319
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 1
+    },
+    "201 Flanders Promissory Note": {
+      "property_id": "201 Flanders Promissory Note",
+      "property_name": "201 Flanders Promissory Note",
+      "base_documents": [
+        {
+          "filename": "201 Flanders Promissory Note.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\201 Flanders Promissory Note.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "201 Flanders Promissory Note",
+          "amendment_number": 0,
+          "file_size": 1019419
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 1
+    },
+    "326bal": {
+      "property_id": "326bal",
+      "property_name": "326bal",
+      "base_documents": [
+        {
+          "filename": "326bal_2022_01.  Loan Agreement.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\326bal_2022_01.  Loan Agreement.PDF",
+          "doc_type": "loan_agreement",
+          "property_identifier": "326bal",
+          "amendment_number": 0,
+          "file_size": 23801884
+        },
+        {
+          "filename": "326bal_2022_02.  Promissory Note.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\326bal_2022_02.  Promissory Note.PDF",
+          "doc_type": "promissory_note",
+          "property_identifier": "326bal",
+          "amendment_number": 0,
+          "file_size": 4503983
+        },
+        {
+          "filename": "326bal_orig_Loan Agreement-c.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\326bal_orig_Loan Agreement-c.PDF",
+          "doc_type": "loan_agreement",
+          "property_identifier": "326bal",
+          "amendment_number": 0,
+          "file_size": 9156348
+        },
+        {
+          "filename": "326bal_orig_Promissory Note-c.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\326bal_orig_Promissory Note-c.PDF",
+          "doc_type": "promissory_note",
+          "property_identifier": "326bal",
+          "amendment_number": 0,
+          "file_size": 83751
+        },
+        {
+          "filename": "326bal_rockland_01.  Loan Agreement.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\326bal_rockland_01.  Loan Agreement.PDF",
+          "doc_type": "loan_agreement",
+          "property_identifier": "326bal",
+          "amendment_number": 0,
+          "file_size": 23801884
+        },
+        {
+          "filename": "326bal_rockland_02.  Promissory Note.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\326bal_rockland_02.  Promissory Note.PDF",
+          "doc_type": "promissory_note",
+          "property_identifier": "326bal",
+          "amendment_number": 0,
+          "file_size": 4503983
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 6
+    },
+    "327 Ruby Willington-": {
+      "property_id": "327 Ruby Willington-",
+      "property_name": "327 Ruby Willington-",
+      "base_documents": [
+        {
+          "filename": "327 Ruby Willington- Loan Agreement - Executed(15450594.1).pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\327 Ruby Willington- Loan Agreement - Executed(15450594.1).pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "327 Ruby Willington-",
+          "amendment_number": 0,
+          "file_size": 812738
+        },
+        {
+          "filename": "327 Ruby Willington- Promissory Note - Executed(15450601.1).pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\327 Ruby Willington- Promissory Note - Executed(15450601.1).pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "327 Ruby Willington-",
+          "amendment_number": 0,
+          "file_size": 307279
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 2
+    },
+    "35 and 37 Cherry Hill Loan Agreement": {
+      "property_id": "35 and 37 Cherry Hill Loan Agreement",
+      "property_name": "35 and 37 Cherry Hill Loan Agreement",
+      "base_documents": [
+        {
+          "filename": "35 and 37 Cherry Hill Loan Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\35 and 37 Cherry Hill Loan Agreement.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "35 and 37 Cherry Hill Loan Agreement",
+          "amendment_number": 0,
+          "file_size": 14326532
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 1
+    },
+    "35 and 37 Cherry Hill Note": {
+      "property_id": "35 and 37 Cherry Hill Note",
+      "property_name": "35 and 37 Cherry Hill Note",
+      "base_documents": [
+        {
+          "filename": "35 and 37 Cherry Hill Note.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\35 and 37 Cherry Hill Note.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "35 and 37 Cherry Hill Note",
+          "amendment_number": 0,
+          "file_size": 2820036
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 1
+    },
+    "350 Gay -": {
+      "property_id": "350 Gay -",
+      "property_name": "350 Gay -",
+      "base_documents": [
+        {
+          "filename": "350 Gay - Loan Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\350 Gay - Loan Agreement.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "350 Gay -",
+          "amendment_number": 0,
+          "file_size": 581512
+        },
+        {
+          "filename": "350 Gay - Term Note.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\350 Gay - Term Note.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "350 Gay -",
+          "amendment_number": 0,
+          "file_size": 246813
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 2
+    },
+    "36 Precision Drive": {
+      "property_id": "36 Precision Drive",
+      "property_name": "36 Precision Drive",
+      "base_documents": [
+        {
+          "filename": "36 Precision Drive - Loan Agreement.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\36 Precision Drive - Loan Agreement.PDF",
+          "doc_type": "loan_agreement",
+          "property_identifier": "36 Precision Drive",
+          "amendment_number": 0,
+          "file_size": 3079182
+        },
+        {
+          "filename": "36 Precision Drive - Promissory Note.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\36 Precision Drive - Promissory Note.PDF",
+          "doc_type": "promissory_note",
+          "property_identifier": "36 Precision Drive",
+          "amendment_number": 0,
+          "file_size": 1328944
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 2
+    },
+    "360 Narragansett -": {
+      "property_id": "360 Narragansett -",
+      "property_name": "360 Narragansett -",
+      "base_documents": [
+        {
+          "filename": "360 Narragansett - Loan Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\360 Narragansett - Loan Agreement.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "360 Narragansett -",
+          "amendment_number": 0,
+          "file_size": 4681205
+        },
+        {
+          "filename": "360 Narragansett - Promissory Note.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\360 Narragansett - Promissory Note.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "360 Narragansett -",
+          "amendment_number": 0,
+          "file_size": 683482
+        }
+      ],
+      "amendments": [
+        {
+          "filename": "360 Narragansett - 2nd Loan Agreement 500k.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\360 Narragansett - 2nd Loan Agreement 500k.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "360 Narragansett -",
+          "amendment_number": 2,
+          "file_size": 5659112
+        },
+        {
+          "filename": "360 Narragansett - 2nd Promissory Note 500k.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\360 Narragansett - 2nd Promissory Note 500k.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "360 Narragansett -",
+          "amendment_number": 2,
+          "file_size": 850851
+        }
+      ],
+      "supporting_documents": [],
+      "total_documents": 4
+    },
+    "40 Warren St": {
+      "property_id": "40 Warren St",
+      "property_name": "40 Warren St",
+      "base_documents": [
+        {
+          "filename": "40 Warren St - Loan Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\40 Warren St - Loan Agreement.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "40 Warren St",
+          "amendment_number": 0,
+          "file_size": 4405492
+        },
+        {
+          "filename": "40 Warren St - Promissory Note.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\40 Warren St - Promissory Note.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "40 Warren St",
+          "amendment_number": 0,
+          "file_size": 581527
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 2
+    },
+    "405 Cochituate Loan Agreement": {
+      "property_id": "405 Cochituate Loan Agreement",
+      "property_name": "405 Cochituate Loan Agreement",
+      "base_documents": [
+        {
+          "filename": "405 Cochituate Loan Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\405 Cochituate Loan Agreement.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "405 Cochituate Loan Agreement",
+          "amendment_number": 0,
+          "file_size": 185454
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 1
+    },
+    "405 Cochituate Promissory Note": {
+      "property_id": "405 Cochituate Promissory Note",
+      "property_name": "405 Cochituate Promissory Note",
+      "base_documents": [
+        {
+          "filename": "405 Cochituate Promissory Note.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\405 Cochituate Promissory Note.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "405 Cochituate Promissory Note",
+          "amendment_number": 0,
+          "file_size": 84702
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 1
+    },
+    "44 Indust": {
+      "property_id": "44 Indust",
+      "property_name": "44 Indust",
+      "base_documents": [
+        {
+          "filename": "44 Industrial - Commercial Loan Agreement OCR.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\44 Industrial - Commercial Loan Agreement OCR.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "44 Indust",
+          "amendment_number": 0,
+          "file_size": 3965550
+        },
+        {
+          "filename": "44 Industrial - Promissory Note.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\44 Industrial - Promissory Note.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "44 Indust",
+          "amendment_number": 0,
+          "file_size": 818315
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 2
+    },
+    "5 Aviation Park Drive": {
+      "property_id": "5 Aviation Park Drive",
+      "property_name": "5 Aviation Park Drive",
+      "base_documents": [
+        {
+          "filename": "5 Aviation Park Drive - Final Loan Agreement.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\5 Aviation Park Drive - Final Loan Agreement.PDF",
+          "doc_type": "loan_agreement",
+          "property_identifier": "5 Aviation Park Drive",
+          "amendment_number": 0,
+          "file_size": 1362179
+        }
+      ],
+      "amendments": [
+        {
+          "filename": "5 Aviation Park Drive - Modification Agreement.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\5 Aviation Park Drive - Modification Agreement.PDF",
+          "doc_type": "amendment",
+          "property_identifier": "5 Aviation Park Drive",
+          "amendment_number": 0,
+          "file_size": 407382
+        }
+      ],
+      "supporting_documents": [],
+      "total_documents": 2
+    },
+    "501 Griffin Brook -": {
+      "property_id": "501 Griffin Brook -",
+      "property_name": "501 Griffin Brook -",
+      "base_documents": [],
+      "amendments": [
+        {
+          "filename": "501 Griffin Brook - 1st Modification Agreement.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\501 Griffin Brook - 1st Modification Agreement.PDF",
+          "doc_type": "amendment",
+          "property_identifier": "501 Griffin Brook -",
+          "amendment_number": 1,
+          "file_size": 10375606
+        }
+      ],
+      "supporting_documents": [],
+      "total_documents": 1
+    },
+    "501 Griffin Brook Loan Agreement": {
+      "property_id": "501 Griffin Brook Loan Agreement",
+      "property_name": "501 Griffin Brook Loan Agreement",
+      "base_documents": [
+        {
+          "filename": "501 Griffin Brook Loan Agreement.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\501 Griffin Brook Loan Agreement.PDF",
+          "doc_type": "loan_agreement",
+          "property_identifier": "501 Griffin Brook Loan Agreement",
+          "amendment_number": 0,
+          "file_size": 255143
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 1
+    },
+    "501 Griffin Brook Term Note": {
+      "property_id": "501 Griffin Brook Term Note",
+      "property_name": "501 Griffin Brook Term Note",
+      "base_documents": [
+        {
+          "filename": "501 Griffin Brook Term Note.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\501 Griffin Brook Term Note.PDF",
+          "doc_type": "promissory_note",
+          "property_identifier": "501 Griffin Brook Term Note",
+          "amendment_number": 0,
+          "file_size": 83406
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 1
+    },
+    "501 Griffin Brook \u2013 1st Amended and Restated Loan Agreement": {
+      "property_id": "501 Griffin Brook \u2013 1st Amended and Restated Loan Agreement",
+      "property_name": "501 Griffin Brook \u2013 1st Amended and Restated Loan Agreement",
+      "base_documents": [],
+      "amendments": [
+        {
+          "filename": "501 Griffin Brook \u2013 1st Amended and Restated Loan Agreement.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\501 Griffin Brook \u2013 1st Amended and Restated Loan Agreement.PDF",
+          "doc_type": "loan_agreement",
+          "property_identifier": "501 Griffin Brook \u2013 1st Amended and Restated Loan Agreement",
+          "amendment_number": 1,
+          "file_size": 38320132
+        }
+      ],
+      "supporting_documents": [],
+      "total_documents": 1
+    },
+    "501 Griffin Brook \u2013 1st Amended and Restated Term Note": {
+      "property_id": "501 Griffin Brook \u2013 1st Amended and Restated Term Note",
+      "property_name": "501 Griffin Brook \u2013 1st Amended and Restated Term Note",
+      "base_documents": [],
+      "amendments": [
+        {
+          "filename": "501 Griffin Brook \u2013 1st Amended and Restated Term Note.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\501 Griffin Brook \u2013 1st Amended and Restated Term Note.PDF",
+          "doc_type": "promissory_note",
+          "property_identifier": "501 Griffin Brook \u2013 1st Amended and Restated Term Note",
+          "amendment_number": 1,
+          "file_size": 5935620
+        }
+      ],
+      "supporting_documents": [],
+      "total_documents": 1
+    },
+    "6 Wentworth -": {
+      "property_id": "6 Wentworth -",
+      "property_name": "6 Wentworth -",
+      "base_documents": [
+        {
+          "filename": "6 Wentworth - Loan Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\6 Wentworth - Loan Agreement.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "6 Wentworth -",
+          "amendment_number": 0,
+          "file_size": 5695085
+        },
+        {
+          "filename": "6 Wentworth - Promissory Note.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\6 Wentworth - Promissory Note.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "6 Wentworth -",
+          "amendment_number": 0,
+          "file_size": 627156
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 2
+    },
+    "6Post": {
+      "property_id": "6Post",
+      "property_name": "6Post",
+      "base_documents": [
+        {
+          "filename": "6Post_Term Loan Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\6Post_Term Loan Agreement.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "6Post",
+          "amendment_number": 0,
+          "file_size": 2130281
+        },
+        {
+          "filename": "6Post_Term Loan Note.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\6Post_Term Loan Note.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "6Post",
+          "amendment_number": 0,
+          "file_size": 815990
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 2
+    },
+    "8TECH": {
+      "property_id": "8TECH",
+      "property_name": "8TECH",
+      "base_documents": [
+        {
+          "filename": "8TECH_Allonge to Promissory Note.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\8TECH_Allonge to Promissory Note.PDF",
+          "doc_type": "promissory_note",
+          "property_identifier": "8TECH",
+          "amendment_number": 0,
+          "file_size": 485954
+        },
+        {
+          "filename": "8TECH_Amendment to Loan Agreement and Ratification of Loan Documents.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\8TECH_Amendment to Loan Agreement and Ratification of Loan Documents.PDF",
+          "doc_type": "loan_agreement",
+          "property_identifier": "8TECH",
+          "amendment_number": 0,
+          "file_size": 1191828
+        },
+        {
+          "filename": "8TECH_Final Promissory Note - 8   10 Tech LLC (W6610714x7AC2E).PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\8TECH_Final Promissory Note - 8   10 Tech LLC (W6610714x7AC2E).PDF",
+          "doc_type": "promissory_note",
+          "property_identifier": "8TECH",
+          "amendment_number": 0,
+          "file_size": 428185
+        },
+        {
+          "filename": "8TECH_Loan Agreement - Radius Bank - 8 and 10 Tech LLC (W6602547x7AC2E).PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\8TECH_Loan Agreement - Radius Bank - 8 and 10 Tech LLC (W6602547x7AC2E).PDF",
+          "doc_type": "loan_agreement",
+          "property_identifier": "8TECH",
+          "amendment_number": 0,
+          "file_size": 306622
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 4
+    },
+    "Cherry Hill Portfolio": {
+      "property_id": "Cherry Hill Portfolio",
+      "property_name": "Cherry Hill Portfolio",
+      "base_documents": [
+        {
+          "filename": "Cherry Hill Portfolio CSB Loan Agreement.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\Cherry Hill Portfolio CSB Loan Agreement.PDF",
+          "doc_type": "loan_agreement",
+          "property_identifier": "Cherry Hill Portfolio",
+          "amendment_number": 0,
+          "file_size": 3672684
+        },
+        {
+          "filename": "Cherry Hill Portfolio CSB Promissory Note.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\Cherry Hill Portfolio CSB Promissory Note.PDF",
+          "doc_type": "promissory_note",
+          "property_identifier": "Cherry Hill Portfolio",
+          "amendment_number": 0,
+          "file_size": 1100533
+        }
+      ],
+      "amendments": [
+        {
+          "filename": "Cherry Hill Portfolio CSB 1st Amended and Restated Term Note.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\Cherry Hill Portfolio CSB 1st Amended and Restated Term Note.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "Cherry Hill Portfolio",
+          "amendment_number": 1,
+          "file_size": 837454
+        },
+        {
+          "filename": "Cherry Hill Portfolio CSB 1st Modification Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\Cherry Hill Portfolio CSB 1st Modification Agreement.pdf",
+          "doc_type": "amendment",
+          "property_identifier": "Cherry Hill Portfolio",
+          "amendment_number": 1,
+          "file_size": 1146705
+        },
+        {
+          "filename": "Cherry Hill Portfolio CSB 2nd Modification Agreement.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\Cherry Hill Portfolio CSB 2nd Modification Agreement.PDF",
+          "doc_type": "amendment",
+          "property_identifier": "Cherry Hill Portfolio",
+          "amendment_number": 2,
+          "file_size": 10128860
+        },
+        {
+          "filename": "Cherry Hill Portfolio CSB 3rd Modification Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\Cherry Hill Portfolio CSB 3rd Modification Agreement.pdf",
+          "doc_type": "amendment",
+          "property_identifier": "Cherry Hill Portfolio",
+          "amendment_number": 3,
+          "file_size": 370821
+        }
+      ],
+      "supporting_documents": [],
+      "total_documents": 6
+    },
+    "Harbor One": {
+      "property_id": "Harbor One",
+      "property_name": "Harbor One",
+      "base_documents": [
+        {
+          "filename": "Harbor One Bank - R.J. Kelly - Nashua and Hudson - Promissory Note.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\Harbor One Bank - R.J. Kelly - Nashua and Hudson - Promissory Note.PDF",
+          "doc_type": "promissory_note",
+          "property_identifier": "Harbor One",
+          "amendment_number": 0,
+          "file_size": 170108
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 1
+    },
+    "18 Celina Ave": {
+      "property_id": "18 Celina Ave",
+      "property_name": "18 Celina Ave",
+      "base_documents": [
+        {
+          "filename": "HarborOne_RJ Kelly - 18 Celina Ave Nashua (NH) - Loan Agreement.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\HarborOne_RJ Kelly - 18 Celina Ave Nashua (NH) - Loan Agreement.PDF",
+          "doc_type": "loan_agreement",
+          "property_identifier": "18 Celina Ave",
+          "amendment_number": 0,
+          "file_size": 296884
+        },
+        {
+          "filename": "HarborOne_RJ Kelly - 18 Celina Ave Nashua (NH) - Promissory Note.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\HarborOne_RJ Kelly - 18 Celina Ave Nashua (NH) - Promissory Note.PDF",
+          "doc_type": "promissory_note",
+          "property_identifier": "18 Celina Ave",
+          "amendment_number": 0,
+          "file_size": 168306
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 2
+    },
+    "Loan Agreement_15 18 20 and 22 Continental": {
+      "property_id": "Loan Agreement_15 18 20 and 22 Continental",
+      "property_name": "Loan Agreement_15 18 20 and 22 Continental",
+      "base_documents": [
+        {
+          "filename": "Loan Agreement_15 18 20 and 22 Continental.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\Loan Agreement_15 18 20 and 22 Continental.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "Loan Agreement_15 18 20 and 22 Continental",
+          "amendment_number": 0,
+          "file_size": 418296
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 1
+    },
+    "Plymouth": {
+      "property_id": "Plymouth",
+      "property_name": "Plymouth",
+      "base_documents": [
+        {
+          "filename": "Plymouth Loan Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\Plymouth Loan Agreement.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "Plymouth",
+          "amendment_number": 0,
+          "file_size": 34623256
+        },
+        {
+          "filename": "Plymouth Term Note.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\Plymouth Term Note.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "Plymouth",
+          "amendment_number": 0,
+          "file_size": 7054838
+        }
+      ],
+      "amendments": [
+        {
+          "filename": "Plymouth 1st Amended and Restated Note.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\Plymouth 1st Amended and Restated Note.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "Plymouth",
+          "amendment_number": 1,
+          "file_size": 137738
+        },
+        {
+          "filename": "Plymouth 1st Modification Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\Plymouth 1st Modification Agreement.pdf",
+          "doc_type": "amendment",
+          "property_identifier": "Plymouth",
+          "amendment_number": 1,
+          "file_size": 331459
+        }
+      ],
+      "supporting_documents": [],
+      "total_documents": 4
+    },
+    "Term Note_15 18 20 and 22 Continental (002)": {
+      "property_id": "Term Note_15 18 20 and 22 Continental (002)",
+      "property_name": "Term Note_15 18 20 and 22 Continental (002)",
+      "base_documents": [
+        {
+          "filename": "Term Note_15 18 20 and 22 Continental (002).pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\Term Note_15 18 20 and 22 Continental (002).pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "Term Note_15 18 20 and 22 Continental (002)",
+          "amendment_number": 0,
+          "file_size": 67221
+        }
+      ],
+      "amendments": [],
+      "supporting_documents": [],
+      "total_documents": 1
+    },
+    "Terminal Street": {
+      "property_id": "Terminal Street",
+      "property_name": "Terminal Street",
+      "base_documents": [],
+      "amendments": [
+        {
+          "filename": "Terminal Street - 1st Amend Loan Agreement.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\Terminal Street - 1st Amend Loan Agreement.pdf",
+          "doc_type": "loan_agreement",
+          "property_identifier": "Terminal Street",
+          "amendment_number": 1,
+          "file_size": 7103652
+        },
+        {
+          "filename": "Terminal Street - 1st Amend Note.pdf",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\Terminal Street - 1st Amend Note.pdf",
+          "doc_type": "promissory_note",
+          "property_identifier": "Terminal Street",
+          "amendment_number": 1,
+          "file_size": 2854734
+        }
+      ],
+      "supporting_documents": [],
+      "total_documents": 2
+    },
+    "_77sbed": {
+      "property_id": "_77sbed",
+      "property_name": "_77sbed",
+      "base_documents": [
+        {
+          "filename": "_77sbed_Line of Credit Note.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\_77sbed_Line of Credit Note.PDF",
+          "doc_type": "promissory_note",
+          "property_identifier": "_77sbed",
+          "amendment_number": 0,
+          "file_size": 11794747
+        }
+      ],
+      "amendments": [
+        {
+          "filename": "_77sbed_Amended and Restated Loan Agreement.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\_77sbed_Amended and Restated Loan Agreement.PDF",
+          "doc_type": "loan_agreement",
+          "property_identifier": "_77sbed",
+          "amendment_number": 99,
+          "file_size": 31509727
+        },
+        {
+          "filename": "_77sbed_Amended and Restated Promissory Note.PDF",
+          "filepath": "C:\\Users\\mmelanson\\.cursor-tutor\\projects\\loan-agreement-ocr\\data_output\\_77sbed_Amended and Restated Promissory Note.PDF",
+          "doc_type": "promissory_note",
+          "property_identifier": "_77sbed",
+          "amendment_number": 99,
+          "file_size": 14189100
+        }
+      ],
+      "supporting_documents": [],
+      "total_documents": 3
+    }
+  },
+  "unmapped_documents": []
+}

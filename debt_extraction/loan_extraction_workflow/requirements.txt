@@ -1,0 +1,17 @@
+# Loan Extraction Workflow Dependencies
+
+# Google Gemini AI SDK
+google-genai>=0.3.0
+
+# PDF text extraction (choose one or install all for robustness)
+pdfplumber>=0.9.0
+PyPDF2>=3.0.0
+PyMuPDF>=1.23.0
+
+# Core Python libraries (usually included)
+pathlib2>=2.3.0
+typing-extensions>=4.0.0
+
+# Optional: Enhanced logging and progress bars
+tqdm>=4.65.0
+colorama>=0.4.6 
